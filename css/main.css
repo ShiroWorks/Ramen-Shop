@@ -10,10 +10,6 @@
   --black: #141204;
 }
 
-/* html {
-  scroll-behavior: smooth;
-} */
-
 body {
   font-family: 'Mr Dafoe', cursive;
   color: var(--white);
