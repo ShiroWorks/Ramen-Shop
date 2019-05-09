@@ -1,3 +1,7 @@
+window.addEventListener('load', () =>
+  document.querySelector('.preloader').classList.add('hidePreloader')
+);
+
 $(document).ready(function() {
   //toggler btn
   $('.navbar-toggler').click(function() {
